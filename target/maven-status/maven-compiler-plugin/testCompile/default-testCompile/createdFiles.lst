@@ -1,0 +1,7 @@
+com\mycompany\model\PayrollTest.class
+com\mycompany\utility\CredentialManagerTest.class
+com\mycompany\model\UserTest.class
+com\mycompany\model\BankTest.class
+com\mycompany\model\SuperannuationTest.class
+com\mycompany\model\EmployeeTest.class
+com\mycompany\utility\SessionTest.class

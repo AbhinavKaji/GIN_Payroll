@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.gin_payroll=_
+--add-reads
+com.mycompany.gin_payroll=ALL-UNNAMED
